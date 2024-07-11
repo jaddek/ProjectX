@@ -11,6 +11,17 @@ The project involves daily analysis of the labour market.
   
 ## Requirements (12.07.2024)
 
+-
+
+## Tech stack
+
+- C#, Go (Anton Nazarov)
+- 
+- PostgreSQL, ClickHouse
+- Sentinel Redis Pub/Sub, Kafka
+- Docker
+- ElasticSearch + Kibana
+
 ## Service Mapping (12.07.2024)
 
 ### Pre-alpha Service Mapping (12.07.2024) - idea testing.
