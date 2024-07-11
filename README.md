@@ -15,12 +15,12 @@ The project involves daily analysis of the labour market.
 
 ## Tech stack
 
-- C#, Go (Anton Nazarov)
+- C# .NET, Go (Anton Nazarov)
 - 
-- PostgreSQL, ClickHouse
-- Sentinel Redis Pub/Sub, Kafka
+- PostgreSQL
+- Sentinel Redis Pub/Sub for demand, Kafka as a event broker.
 - Docker
-- ElasticSearch + Kibana
+- ClickHouse, ElasticSearch + Kibana for reporting and monitoring
 
 ## Service Mapping (12.07.2024)
 
