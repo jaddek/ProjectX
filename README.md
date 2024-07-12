@@ -22,13 +22,13 @@ The project involves daily analysis of the labour market.
 - Docker
 - ClickHouse, ElasticSearch + Kibana for reporting and monitoring
 
-## Service Mapping (12.07.2024)
+## Services map (12.07.2024)
 
-### Pre-alpha Service Mapping (12.07.2024) - idea testing.
+### Pre-alpha Services map (12.07.2024) - idea testing.
 
 ## Milestones
 
-### Service mapping (12.07.2024)
+### Services map (12.07.2024)
 
 ![Proposed map](./Map2.png)
 
