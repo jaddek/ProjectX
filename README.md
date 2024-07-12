@@ -32,4 +32,6 @@ The project involves daily analysis of the labour market.
 
 ![Proposed map](./Map.png)
 
+![Source Domain Mock service](https://github.com/DiukovaKs/mock-service)
+
 ### ....
