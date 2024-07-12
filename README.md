@@ -30,7 +30,7 @@ The project involves daily analysis of the labour market.
 
 ### Service mapping (12.07.2024)
 
-![Proposed map](./Map.png)
+![Proposed map](./Map2.png)
 
 [Source Domain Mock service](https://github.com/DiukovaKs/mock-service)
 
