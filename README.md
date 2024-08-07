@@ -13,7 +13,7 @@ The project involves daily analysis of the labour market.
 
 ## Tech stack
 
-- C# .NET, Go (Anton Nazarov)
+- Java, C# .NET, Go (Anton Nazarov)
 - Java, C#, TypeScript (Kseniia Diukova)
 - PostgreSQL
 - Sentinel Redis Pub/Sub for demand, Kafka as a event broker.
